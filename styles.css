@@ -1,0 +1,60 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-color: #000;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background-color: #333;
+  }
+  
+  .navbar h1 {
+    color: gold;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar ul li {
+    margin: 0 1em;
+  }
+  
+  .navbar ul li a {
+    text-decoration: none;
+    color: gold;
+    font-weight: bold;
+  }
+  
+  .section {
+    padding: 2em;
+    text-align: center;
+  }
+  
+  .highlight {
+    color: gold;
+  }
+  
+  .contact p {
+    margin: 0.5em 0;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #222;
+    color: gold;
+  }
+  
+
+styles.css
+Displaying styles.css.
